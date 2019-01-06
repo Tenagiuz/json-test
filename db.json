@@ -1,19 +1,19 @@
-{
+[
   {
   "immagini":[],
    "titolo":"Playstation",
    "prezzo":60,
-   "dataPubblicazione":2012-04-23T18:25:43.511Z,
+   "dataPubblicazione":"2012-04-23T18:25:43.511Z",
    "paese":{
    "id":"2",
    "nome":"Uruguay"
-  },
+   },
   "id":"54",
   "descrizione":"Antica reliquia di una civiltà perduta. Si apre come uno scrigno ma il vano è vuoto.",
   "categoria":{
    "id":"5",
    "nome":"Videogames"
-  }
+  },
   "materiali":[
    { "id":"1",
      "nome":"plastica"
@@ -26,11 +26,11 @@
    "nome":"Pinco Pallino",
    "email":"pallino.pinco@email.com",
    "password":null,
-   "dataIscrizione":2012-04-23T18:25:43.511Z,
+   "dataIscrizione":"2012-04-23T18:25:43.511Z",
    "inserzioniPubblicate":4,
    "inserzioniOnline":2,
    "inserzioniPerCategoria":null,
    "inserzioni":null
    }
   }
- }
+ ]
